@@ -1,0 +1,15 @@
+.app button {
+    width: 400px;
+    background-color: #1b1e21;
+    border: 1px solid grey;
+    color: white;
+}
+.app button:focus {
+    width: 400px;
+    background-color: #1b1e21;
+    border: 1px solid grey;
+    color: white;
+}
+main {
+    padding: 10px;
+}
